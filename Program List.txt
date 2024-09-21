@@ -1,0 +1,41 @@
+Here is a list of programming questions to help you master core Java concepts:
+
+### Basic Syntax and Control Structures
+1. **Hello World Program**: Write a program to print "Hello, World!".
+2. **Simple Arithmetic**: Write a program to perform basic arithmetic operations (addition, subtraction, multiplication, division) on two numbers.
+3. **Conditional Statements**: Write a program to check if a number is positive, negative, or zero.
+4. **Loops**: Write a program to print the first 10 natural numbers using a `for` loop.
+
+### Object-Oriented Programming (OOP)
+5. **Class and Objects**: Create a class `Car` with properties like model, brand, and price. Instantiate objects of this class.
+6. **Methods**: Add methods to the `Car` class to display car details and calculate the discount price.
+7. **Constructors**: Implement parameterized constructors in the `Car` class.
+8. **Inheritance**: Create a class `ElectricCar` that inherits from `Car` and adds additional properties like battery capacity.
+9. **Polymorphism**: Demonstrate method overloading and method overriding in the `Car` and `ElectricCar` classes.
+10. **Abstraction**: Create an abstract class `Shape` with an abstract method `calculateArea()`. Implement this method in subclasses `Circle` and `Rectangle`.
+11. **Interfaces**: Create an interface `Drivable` with a method `drive()`. Implement this interface in the `Car` class.
+
+### Exception Handling
+12. **Try-Catch Block**: Write a program that handles an `ArrayIndexOutOfBoundsException`.
+13. **Custom Exception**: Create a custom exception `InvalidAgeException` and throw it if a user enters an invalid age.
+
+### Collections Framework
+14. **ArrayList**: Write a program to create an `ArrayList` of integers, add elements to it, and iterate through the list.
+15. **HashMap**: Write a program to create a `HashMap` to store student names and their marks, and retrieve marks by student name.
+16. **Set Interface**: Write a program to demonstrate the use of a `HashSet` to store unique elements.
+
+### File I/O
+17. **Read from File**: Write a program to read content from a text file and display it on the console.
+18. **Write to File**: Write a program to write user input to a text file.
+
+### Multithreading
+19. **Thread Creation**: Write a program to create and run two threads simultaneously.
+20. **Synchronization**: Write a program to demonstrate the use of synchronization in multithreading.
+
+### Miscellaneous
+21. **String Manipulation**: Write a program to reverse a string and check if it is a palindrome.
+22. **Date and Time**: Write a program to display the current date and time using `LocalDateTime` class.
+23. **Lambda Expressions**: Write a program to demonstrate the use of lambda expressions for sorting a list of strings.
+24. **Stream API**: Write a program to use the Stream API to filter and sort a list of integers.
+
+Working through these questions will help you solidify your understanding of core Java concepts and improve your programming skills.
